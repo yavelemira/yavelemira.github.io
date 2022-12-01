@@ -1,3 +1,7 @@
+layout: post
 title: Test
 description: Test test test
-categories: blog
+
+---
+
+Welcome to my test!
