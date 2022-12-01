@@ -1,8 +1,6 @@
 
 ---
-
-layout: page
-title: "how does this work"
+layout: default
 ---
 
 My name is Masha. This is some text
