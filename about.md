@@ -1,8 +1,6 @@
 
 ---
-layout: page
-title: "About"
-permalink: /about
+layout: default
 ---
 
-My name is Masha.
+My name is Masha. This is some text
