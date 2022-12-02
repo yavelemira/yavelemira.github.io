@@ -2,10 +2,30 @@
 layout: default
 ---
 
-# Me me me about me
+# Markdown notes
 
-My name is **Masha**. This is some text
+[Link to another page where I would like to put all the posts](./another-page.html).
 
-## My thoughsies
+## Data
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+## Books 
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header. 
+
+## Other things 
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header. 
+
+# Other
+
+## Links and different useful things
 
 Looks beautiful?
