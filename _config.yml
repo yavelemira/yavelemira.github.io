@@ -1,9 +1,30 @@
-title: Masha S
-logo: /assets/img/logo1.png
-description:  >  
-  A place for various things. 
-  <br><br>
-  <a href="https://www.linkedin.com/in/maria-stroganova/">View My LinkedIn Profile</a> 
+# Dependencies
+# highlighter: pygments
 
-theme: jekyll-theme-minimal
+# Permalinks
+# permalink: pretty
+# relative_permalinks: true
 
+# Setup
+title: Yavelemira
+tagline: 'A beautiful woman'
+description: 'My thoughtsies, my world, and my buba.'
+url: https://yavelemira.github.io
+baseurl:
+
+author:
+  name: 'Yavelemira'
+  url: https://www.linkedin.com/in/maria-stroganova/
+
+paginate: 5
+
+# Plugins
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+github:
+  repo:           https://github.com/yavelemira/yavelemira.github.io
