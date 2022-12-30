@@ -1,11 +1,3 @@
-# Dependencies
-# highlighter: pygments
-
-# Permalinks
-# permalink: pretty
-# relative_permalinks: true
-
-# Setup
 title: Yavelemira
 tagline: 'A beautiful woman'
 description: 'My thoughtsies, my world, and my buba.'
@@ -27,4 +19,4 @@ plugins:
   - jekyll-seo-tag
 
 github:
-  repo:           https://github.com/yavelemira/yavelemira.github.io
+  repo: https://github.com/yavelemira/yavelemira.github.io
