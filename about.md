@@ -11,6 +11,6 @@ I come from a very lovely place that is famous for having beautiful girlies, and
 
 I like dogs, but in their absence, cats are also cute. In fact, I use almost exclusively cat stickers on telegram (ofc telegram is the best chat app - change my mind).
 
-When I'm sad I tend to get extremely dramatic, but on the upside I get over it pretty fast. I'm what they call a rising phoenix. Sometimes I rise more like a penguin though.
+When I'm sad I tend to get an itsy bitsy pensive, but on the upside I get over it pretty fast. I'm what they call a rising phoenix. Sometimes I rise more like a penguin though.
 
 I hope no-one gets to read these before I see them and fix, since I gave my buba access to the github repo where I host this website, and he's wreaking havoc everywhere ✨💕.
