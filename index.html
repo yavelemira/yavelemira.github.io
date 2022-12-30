@@ -1,19 +1,21 @@
 ---
 layout: default
 title: Home
+limit: 5
 ---
 
+<h1>My Home 💒</h1>
+<h2>Blog Posts</h2>
 <div class="posts">
-  {% for post in site.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.excerpt | truncatewords: 20 }}
-  </div>
-  {% endfor %}
+  <ul>
+    {%- assign count = 0 -%}
+    {%- for post in site.posts -%}
+      {%- assign count = count | plus:1 -%}
+      <li>
+       <a href="{{ post.url }}">{{post.date | date_to_string }}: {{ post.title }}</a>
+      </li>
+      {%- if count == page.limit -%} {%- break -%} {%- endif -%}
+    {%- endfor -%}
+  </ul>
+  <a href="/blog">see all &#8594;</a>
 </div>
