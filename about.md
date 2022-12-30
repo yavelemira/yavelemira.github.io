@@ -3,28 +3,14 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey you! I'm Yavelemira. I spend most of my time reading very old books, reading techy stuffs, working out, chilling, thinking about things, designing housies and loving my buba.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm also pretty smart, and I work as Information & Data Architect in a huge-ass company. I do all sorts of complicated stuffs that most people don't understand why they exist and why someone needs to do them in the first place, but believe me, they're super important thingies.
 
-There are currently two themes built on Poole:
+I come from a very lovely place that is famous for having beautiful girlies, and I'll admit that I am quite a hottie myself. My buba can verify that if you want to.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I like dogs, but in their absence, cats are also cute. In fact, I use almost exclusively cat stickers on telegram (ofc telegram is the best chat app - change my mind).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+When I'm sad I tend to get extremely dramatic, but on the upside I get over it pretty fast. I'm what they call a rising phoenix. Sometimes I rise more like a penguin though.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I hope no-one gets to read these before I see them and fix, since I gave my buba access to the github repo where I host this website, and he's wreaking havoc everywhere ✨💕.
