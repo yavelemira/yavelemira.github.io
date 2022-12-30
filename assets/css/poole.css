@@ -285,6 +285,9 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   max-width: 38rem;
   padding-left:  1rem;
   padding-right: 1rem;
